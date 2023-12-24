@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.awt.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 2
 public class Circle {
 //this program creates a class of Circle objects
     //initializes a DrawingPanel object to print out the circle object with

@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 14
 public class Fraction {
 //This program creates a class of Fraction Objects
     //instance field which is the Fraction's numerator

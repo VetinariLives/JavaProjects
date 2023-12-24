@@ -3,8 +3,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 27
 //this program creates a class of objects called NBAPlayoff, and is a subclass of JFrame
 //it uses the NBAcourtPanel object and adds it to a jframe that has the user input every team members name and age,
 //and then click a button to submit it

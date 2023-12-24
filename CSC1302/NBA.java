@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 7
 public class NBA {
 //this program first creates 2 NBATeams and names them,
 //it then has the 2 teams play 3 simulated games against each other, and prints out the result using the toString method

@@ -2,8 +2,7 @@ package com.CSC1302;
 import java.util.Scanner;
 import java.util.Random;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 13
+
 public class Bank {
 //This program generates an array of PayPalAccount objects of a user-inputted length.
 //it then initializes each object with a random balance.

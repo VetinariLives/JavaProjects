@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 15
 //This program will print out a christmas tree with a specified height and number of segments
 public class ChrisTree {
     public static void main(String[] args) {

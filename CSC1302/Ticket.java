@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 20
 public class Ticket {/*
     This program creates a class of Ticket objects
     The class has 2 instance variables:

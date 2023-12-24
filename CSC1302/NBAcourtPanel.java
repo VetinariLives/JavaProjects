@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.awt.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 27
 //this program creates a class of objects called NBAcourtPanel, and is a subclass of Canvas
 //it creates a representation of a basketball court using the Graphics class, and prints out the names of every team member
 public class NBAcourtPanel extends Canvas {

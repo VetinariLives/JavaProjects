@@ -1,7 +1,7 @@
 package com.CSC1302;
 //Name: Talha Ansari
 public class Animal {
-//this program creates a class ofAnimal objects
+//this program creates a class of Animal objects
     //declares the private instance field vegetarian
     private boolean vegetarian;
     //declares the private instance field eats

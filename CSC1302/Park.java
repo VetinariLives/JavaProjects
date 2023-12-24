@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.util.ArrayList;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 9
 public class Park {
 //this program creates a class of Park objects
     //name public instance field

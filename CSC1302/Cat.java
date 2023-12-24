@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 16
 public class Cat extends Animal{
 //This program creates a class of Cat objects, which is a subclass of Animals
     //declares the private instance field color

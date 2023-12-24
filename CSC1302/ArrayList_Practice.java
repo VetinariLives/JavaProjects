@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.util.ArrayList;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 23
 public class ArrayList_Practice {
 //This program declares and initializes an character ArrayList containing every letter of my first name twice
 //It uses this ArrayList as the argument to call the redundantCharacterMatch

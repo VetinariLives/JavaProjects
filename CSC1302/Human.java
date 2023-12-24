@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 21
 public class Human implements Mammal {
 //this program creates a class of Human objects. It implements the interface Mammal.java
     //declares private instance field 'age', which holds the human's age in years

@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 2
 public class CircleClient {
 //this program creates a Circle object, prints it out using the DrawingPanel class,
 //prints its area and circumference, and determines whether a given point lies within the circle

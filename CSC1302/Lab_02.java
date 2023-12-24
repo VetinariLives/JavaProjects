@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 11
 public class Lab_02 {
     //method that draws first and last side
     public static void LFside(int n) {

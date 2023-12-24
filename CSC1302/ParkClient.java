@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 9
 public class ParkClient {
 //this program creates an array of 5 park objects, constructs each with unique characteristics,
 //finds the park with the largest size, and prints out its information

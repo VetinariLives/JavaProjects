@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 16
 public class Animal {
 //this program creates a class ofAnimal objects
     //declares the private instance field vegetarian

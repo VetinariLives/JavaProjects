@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 20
 public class ColoredPoint extends Point implements Colored {/*
     This program creates a class of ColoredPoint objects, and is a subclass of Point.java
     The class has 1 instance variables: private String color, which holds the color of each point

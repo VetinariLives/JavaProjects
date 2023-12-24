@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 13
 public class PayPalAccount { /*
 This program creates a class of PayPalAccount objects
 The class has 1 class variable, count, which is used to formulate a unique account id for each account

@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 21
 public class Doctor extends Human {
 //This program creates a class of Doctor objects, and is a subclass of Human.java
     //declares private instance field 'years', which holds the number of years the doctor has worked

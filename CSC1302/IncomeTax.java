@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.util.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 22
 public class IncomeTax {
 //this program asks the user to enter the taxable income for a randomly generated number of individuals,
 //calculates and displays the taxes owed per person, and displays the person who owes the highest amount

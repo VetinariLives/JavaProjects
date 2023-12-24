@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 7
 //this program creates a class of objects called NBATeam, which have 3 private instance fields, 1 constructor, and 9 instance methods
 public class NBATeam {
     //declares the instance field teamName

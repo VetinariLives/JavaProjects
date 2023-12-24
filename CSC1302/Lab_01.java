@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 11
 public class Lab_01 {
     //Method for calculating the sum of arithmetic Sequence
     //number = the desired starting point of the sequence

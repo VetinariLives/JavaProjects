@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 14
 public class MultiplyClient {
 //this program initializes an array of fractions of length 7.
 //it assigns each fraction a random numerator and denominator between 1 and 10

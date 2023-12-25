@@ -1,8 +1,6 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 21
-public class Main {
+public class DoctorStudent {
 //This Program constructs 1 Doctor object and 1 Student object and prints them out
     public static void main(String[] args) {
     //constructs student alex using the arguments given in the instructions

@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.util.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 29
 public class TicTac {
 //this program allows two users to play tictactoe in the console using a printed 2d array to visualize the game
     static char[][] board = {

@@ -1,11 +1,9 @@
 package com.CSC1302;
 import java.util.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 22
 public class RepeatedDigits {
-//this program receives a user inputted integer, and returns a table that displays
-//the number of time each digit appears in the number
+//this program receives a user-inputted integer and returns a table that displays
+//the number of times each digit appears in the number
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         int check;

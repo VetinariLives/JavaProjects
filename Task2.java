@@ -1,9 +1,6 @@
 package com.CSC1302;
-//imports
 import java.util.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 16
 public class Task2 {
     public static void main (String[] args) {
         //declares and initializes Scanner

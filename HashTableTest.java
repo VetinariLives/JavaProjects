@@ -2,7 +2,7 @@ package com.CSC2720;
 
 import java.util.Scanner;
 
-public class Main {
+public class HashTableTest {
 
     public static void main(String[] args) {
 	HashTable arr = new HashTable(8);

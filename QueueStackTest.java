@@ -1,5 +1,5 @@
 package com.CSC2720;
-public class Main {
+public class QueueStackTest {
     public static void main(String[] args) {
         QueueStack test = new QueueStack();
         test.push(5);

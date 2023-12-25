@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.util.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 15
 /*This program, called Swap, will take an inputted series of either letters or numbers and
 return a version in which each pair of characters has been swapped*/
 public class Swap {

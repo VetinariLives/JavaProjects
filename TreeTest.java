@@ -2,8 +2,7 @@ package com.CSC2720;
 //2720 HW3
 //Dr. Kiril Kuzmin
 //By Talha Ansari
-//#002587754
-public class Main {
+public class TreeTest {
 
 	public static boolean isMinHeap(int[] array) {
 		if (array.length <= 1) return true;

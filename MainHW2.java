@@ -3,8 +3,7 @@ import java.util.*;
 //2720 HW2
 //Dr. Kiril Kuzmin
 //By Talha Ansari
-//002587754
-public class Main {
+public class MainHW2 {
 
     public static int majorityElement(int[] array) {
         HashMap<Integer,Integer> hash = new HashMap<>();

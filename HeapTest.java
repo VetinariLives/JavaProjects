@@ -1,6 +1,6 @@
 package com.CSC2720;
 
-public class Main {
+public class HeapTest {
 
     public static void main(String[] args) {
         Heap hh = new Heap(8);

@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.awt.Graphics;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 13
 public class YourFirstNameLineTest {
 //This program constructs two Point objects, and then constructs a
 //YourFirstNameLine object using the Points. It then uses the draw class to draw the line.

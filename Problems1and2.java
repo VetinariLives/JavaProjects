@@ -1,6 +1,6 @@
 package com.CSC2720;
 
-public class Main {
+public class Problems1and2 {
 
     public static void main(String[] args) {
 	// write your code here

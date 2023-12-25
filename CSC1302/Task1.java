@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: June 16
 public class Task1 {
     //this program will print out the pattern specified within the lab instructions
     //this will be carried out in the main method

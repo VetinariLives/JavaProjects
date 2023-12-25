@@ -1,8 +1,6 @@
 package com.CSC1302;
 import java.awt.*;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 13
 public class YourFirstNameLine { /*
 This program creates a class of YourFirstNameLine objects
 The class has 6 private instance fields:

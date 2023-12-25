@@ -1,6 +1,6 @@
 package com.CSC2720;
 
-public class Main {
+public class LinkedListTest2 {
 
     public static void main(String[] args) {
 	LinkedList ll = new LinkedList();

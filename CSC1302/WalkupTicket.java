@@ -1,7 +1,5 @@
 package com.CSC1302;
 //Name: Talha Ansari
-//PantherID: 002-587-754
-//Due Date: July 20
 public class WalkupTicket extends Ticket {/*
     This program creates a class of WalkupTicket objects, and is a subclass of Ticket.java
     The class has a constructor, which accepts a int as a parameter and uses it as the argument in the parent constructor
